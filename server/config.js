@@ -10,7 +10,7 @@ module.exports = {
     // USER SETTINGS
 
     // The URL for the server
-    SERVER: '',
+    SERVER: 'open-ic.epic.com',
 
     // The tags that you wish to include in the Resource Counts Table
     TAGS: [],
